@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeadMan19
+- 👋 Hi, I’m Tanmay Mitra
 - 👀 I’m interested in AI & Machine Learning  
 - 🌱 I’m currently learning Data Structure & Algorithms
 - 💞️ I’m looking to collaborate on Web Developing
